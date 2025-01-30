@@ -6,11 +6,10 @@ package edu.eci.cvds.patterns.archetype;
 public class App {
     public static void main(String[] args) {
         if(args!=null){
-            System.out.println("JA JA");
+            System.out.println("Hola"+args);
         }
         else {
             System.out.println("Hello world!");
-            System.out.println(args);
         }
     }
 }
