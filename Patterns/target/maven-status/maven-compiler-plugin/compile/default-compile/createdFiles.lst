@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 edu\eci\cvds\patterns\shapes\Shape.class
 edu\eci\cvds\patterns\shapes\ShapeFactory$1.class
 edu\eci\cvds\patterns\archetype\App.class
@@ -8,3 +9,6 @@ edu\eci\cvds\patterns\shapes\concrete\Hexagon.class
 edu\eci\cvds\patterns\shapes\concrete\Pentagon.class
 edu\eci\cvds\patterns\shapes\ShapeMain.class
 edu\eci\cvds\patterns\shapes\ShapeFactory.class
+=======
+edu\eci\cvds\patterns\archetype\App.class
+>>>>>>> aa58de1bfb68e409026d0320156c38ce37e382c2

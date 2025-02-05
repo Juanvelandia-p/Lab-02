@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Juanf\OneDrive\Documentos\2025-1\CVDS\lab02\Patterns\src\main\java\edu\eci\cvds\patterns\shapes\RegularShapeType.java
 C:\Users\Juanf\OneDrive\Documentos\2025-1\CVDS\lab02\Patterns\src\main\java\edu\eci\cvds\patterns\shapes\ShapeMain.java
 C:\Users\Juanf\OneDrive\Documentos\2025-1\CVDS\lab02\Patterns\src\main\java\edu\eci\cvds\patterns\shapes\ShapeFactory.java
@@ -7,3 +8,6 @@ C:\Users\Juanf\OneDrive\Documentos\2025-1\CVDS\lab02\Patterns\src\main\java\edu\
 C:\Users\Juanf\OneDrive\Documentos\2025-1\CVDS\lab02\Patterns\src\main\java\edu\eci\cvds\patterns\shapes\concrete\Pentagon.java
 C:\Users\Juanf\OneDrive\Documentos\2025-1\CVDS\lab02\Patterns\src\main\java\edu\eci\cvds\patterns\shapes\concrete\Quadrilateral.java
 C:\Users\Juanf\OneDrive\Documentos\2025-1\CVDS\lab02\Patterns\src\main\java\edu\eci\cvds\patterns\shapes\Shape.java
+=======
+C:\Users\USUARIO\Documents\Universidad\CVDS\lab 02\Patterns\src\main\java\edu\eci\cvds\patterns\archetype\App.java
+>>>>>>> aa58de1bfb68e409026d0320156c38ce37e382c2
